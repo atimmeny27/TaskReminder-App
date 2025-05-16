@@ -7,8 +7,9 @@ The final version is 1.18, and I have provided 4 previous scripts if you want to
 
 
 Download the latest version of TaskReminders for macOS here:
+[Click to Download TaskRemindersFinal.zip](https://github.com/atimmeny27/TaskReminder-App/releases/latest/download/TaskRemindersFinal.zip)
 
-[[Click to Download TaskReminders.app.zip](https://github.com/atimmeny27/TaskReminder-App/releases/latest/download/TaskReminders.app.zip)
+
 After downloading:
 
 1. Unzip the file
