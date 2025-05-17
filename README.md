@@ -32,6 +32,8 @@ After downloading:
 
    ```bash
    sudo xattr -d com.apple.quarantine /Users/**YourUsernameHere**/Downloads/TaskReminders.app.zip
+   
+5. Hint, your username if you aren't sure will be here in the terminal "YourUsername@MacBook-Air ~ $"
 10. This command will remove the auto generated quarantine attributes with "xattr -d" since this is only a web app right now
 11. This command requires admin privelages through "sudo", so enter your password to confirm
 
