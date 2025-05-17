@@ -11,7 +11,7 @@ Download the latest version of TaskReminders for macOS here:
 
 After downloading:
 
-1. This is a Mac only app, and make sure the .zip file is in your Downloads folder in finder
+1. This is a Mac only app, and make sure the .zip file is in your Downloads folder in finder, if an app is already created, you can delete for now, only the .zip is needed
    
 2. Open the mac terminal through app library
 3. or Command "⌘" and spacebar simultaneously to open spotlight and look up terminal
