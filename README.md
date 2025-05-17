@@ -40,6 +40,7 @@ After downloading:
 12. Instead, you can also paste "sudo xattr -d" then drag the .zip file into the terminal to get the exact file path 
 13. Once this is done, you can click on the .zip file to create a functioning application
 14. Read through the in-app help section to get started
+15. You can also safely delete the .zip file from downloads
    
     (Optional) Open finder and drag the app from Downloads to Applications to add to app library
 
