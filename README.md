@@ -8,6 +8,22 @@ The final version is **1.18**, and I have provided 4 previous scripts if you wan
 
 ---
 
+### Installation Instructions
+
+1. To install as a standalone app please refer to instructions below, if you don't mind launching via terminal, continue here.
+2. Paste in these commands
+```bash
+git clone https://github.com/atimmeny27/TaskReminder-App)
+cd TaskReminder-App
+```
+
+3. Type in "ls" make sure you see main.py popup in the list
+4. To launch, type ```python3 main.py```
+5. This will still persist the sql database and notifications across separate launches.
+
+## Optional
+1. To add to desktop without an application, you can run a shell script through automator.
+
 ### Download
 
 Download the latest version of TaskReminders for macOS here:
@@ -16,7 +32,7 @@ Download the latest version of TaskReminders for macOS here:
 
 ---
 
-### Installation Instructions (macOS only)
+### Installation Instructions for standalone app (macOS only)
 
 After downloading:
 
