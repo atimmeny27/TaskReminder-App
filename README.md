@@ -5,6 +5,7 @@ This is my first large-scale, solo, unguided Python project. It uses the **Kivy*
 I am working on making it available on the App Store.
 
 The final version is **1.18**, and I have provided 4 previous scripts if you want to see progress stages. Please reach out and ask questions — I would love to help anyone if I am able to. I have tried to include as many comments as possible to help any viewers.
+<img width="1195" alt="Screenshot 2025-06-10 at 3 37 56 PM" src="https://github.com/user-attachments/assets/586c50c0-4f69-40bc-a1ac-beb7aac74775" />
 
 ---
 
